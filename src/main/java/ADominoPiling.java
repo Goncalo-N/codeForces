@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ADominoPiling {
-    public static void main(String args[]){
+    public static void ADominoPiling(){
         Scanner sc = new Scanner(System.in);
 
         int m = sc.nextInt();
