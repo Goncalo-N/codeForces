@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ATeam {
+public class ATeam {  // Problem link : https://codeforces.com/problemset/problem/231/A
     public static void ATeam(){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
